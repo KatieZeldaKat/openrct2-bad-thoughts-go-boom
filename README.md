@@ -4,9 +4,11 @@ It is the Year 1, and guests have been enslaved by a higher being who forces the
 
 As such, all guests *must* have fun, both physically and mentally. And if a guest has a single bad thought? The TNT implanted into them by their captors will automatically go off, creating a firey explosion that leaves nothing behind.
 
+*Idea for plugin provided by [Marcel Vos](https://www.youtube.com/@MarcelVos)*.
+
 ## Getting the plugin
 
-Download the `.js` file from the [latest release](https://github.com/KatieZeldaKat/openrct2-invention-manager/releases/latest) and place it in the "plugin" folder. This can be found by opening OpenRCT2 and selecting "Open custom content folder" under the toolbox in the main menu.
+Download the `.js` file from the [latest release](https://github.com/KatieZeldaKat/openrct2-bad-thoughts-go-boom/releases/latest) and place it in the "plugin" folder. This can be found by opening OpenRCT2 and selecting "Open custom content folder" under the toolbox in the main menu.
 
 ## Known limitations
 
