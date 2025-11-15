@@ -2,9 +2,9 @@
 
 It is the Year 1, and guests have been enslaved by a higher being who forces them to visit amusement parks for eternity. It is an age of mandatory fun.
 
-As such, all guests *must* have fun, both physically and mentally. And if a guest has a single bad thought? The TNT implanted into them by their captors will automatically go off, creating a firey explosion that leaves nothing behind.
+As such, all guests _must_ have fun, both physically and mentally. And if a guest has a single bad thought? The TNT implanted into them by their captors will automatically go off, creating a firey explosion that leaves nothing behind.
 
-*Idea for plugin provided by [Marcel Vos](https://www.youtube.com/@MarcelVos)*.
+_Idea for plugin provided by [Marcel Vos](https://www.youtube.com/@MarcelVos)_.
 
 ## Getting the plugin
 
